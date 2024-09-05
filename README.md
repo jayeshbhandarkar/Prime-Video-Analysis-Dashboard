@@ -18,6 +18,7 @@ The data for this dashboard is sourced from a comprehensive dataset of Prime Vid
 - Movies vs. TV Shows: The platform hosts a majority of TV shows (80.82%) compared to movies (19.18%).
 
 ## 🖼️ Dashboard Snapshot
+![Dashboard](Prime_Video_PowerBi_Dashboard.png)
 
 ## 🧭 How to Use This Dashboard
 - Navigate through the interactive visuals to explore different metrics.
