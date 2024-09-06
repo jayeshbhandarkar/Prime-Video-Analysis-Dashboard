@@ -26,3 +26,5 @@ The data for this dashboard is sourced from a comprehensive dataset of Prime Vid
 - Hover over data points to view detailed tooltips and gain additional insights.
 
 ### This dashboard was created using Power BI's advanced visualization and data modeling features, making complex data easy to understand and act upon.
+
+### 😊 Thankyou !! ✨
